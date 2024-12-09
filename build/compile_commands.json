@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/free/lightweight_python_interpreter/build",
+  "command": "/usr/bin/clang -I/home/free/lightweight_python_interpreter/include -g -std=gnu99 -o CMakeFiles/lightweight_python_interpreter.dir/src/main.c.o -c /home/free/lightweight_python_interpreter/src/main.c",
+  "file": "/home/free/lightweight_python_interpreter/src/main.c",
+  "output": "CMakeFiles/lightweight_python_interpreter.dir/src/main.c.o"
+},
+{
+  "directory": "/home/free/lightweight_python_interpreter/build",
+  "command": "/usr/bin/clang -I/home/free/lightweight_python_interpreter/include -g -std=gnu99 -o CMakeFiles/lightweight_python_interpreter.dir/src/tokenizer.c.o -c /home/free/lightweight_python_interpreter/src/tokenizer.c",
+  "file": "/home/free/lightweight_python_interpreter/src/tokenizer.c",
+  "output": "CMakeFiles/lightweight_python_interpreter.dir/src/tokenizer.c.o"
+},
+{
+  "directory": "/home/free/lightweight_python_interpreter/build",
+  "command": "/usr/bin/clang -I/home/free/lightweight_python_interpreter/include -g -std=gnu99 -o CMakeFiles/lightweight_python_interpreter.dir/src/parser.c.o -c /home/free/lightweight_python_interpreter/src/parser.c",
+  "file": "/home/free/lightweight_python_interpreter/src/parser.c",
+  "output": "CMakeFiles/lightweight_python_interpreter.dir/src/parser.c.o"
+},
+{
+  "directory": "/home/free/lightweight_python_interpreter/build",
+  "command": "/usr/bin/clang -I/home/free/lightweight_python_interpreter/include -g -std=gnu99 -o CMakeFiles/lightweight_python_interpreter.dir/src/vm.c.o -c /home/free/lightweight_python_interpreter/src/vm.c",
+  "file": "/home/free/lightweight_python_interpreter/src/vm.c",
+  "output": "CMakeFiles/lightweight_python_interpreter.dir/src/vm.c.o"
+}
+]

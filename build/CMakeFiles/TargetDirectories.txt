@@ -1,0 +1,3 @@
+/home/free/lightweight_python_interpreter/build/CMakeFiles/lightweight_python_interpreter.dir
+/home/free/lightweight_python_interpreter/build/CMakeFiles/edit_cache.dir
+/home/free/lightweight_python_interpreter/build/CMakeFiles/rebuild_cache.dir

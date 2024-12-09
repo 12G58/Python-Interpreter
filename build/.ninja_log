@@ -1,0 +1,26 @@
+# ninja log v6
+1	131	1733737177922235775	CMakeFiles/lightweight_python_interpreter.dir/src/main.c.o	51817db9b9c0c695
+6	159	1733634183887771023	CMakeFiles/lightweight_python_interpreter.dir/src/tokenizer.c.o	d64b2c6f09e4849
+131	178	1733737178052239191	lightweight_python_interpreter	a3344649531956fc
+9	195	1733738009455231282	CMakeFiles/lightweight_python_interpreter.dir/src/parser.c.o	70609b35518bd4a3
+10	193	1733738009455231282	CMakeFiles/lightweight_python_interpreter.dir/src/vm.c.o	91fe7dd97aeeb7be
+1	77	1733741559364965456	CMakeFiles/lightweight_python_interpreter.dir/src/main.c.o	51817db9b9c0c695
+78	133	1733741559441634445	lightweight_python_interpreter	a3344649531956fc
+2	48	1733741774918590125	CMakeFiles/lightweight_python_interpreter.dir/src/parser.c.o	70609b35518bd4a3
+48	83	1733741774965258330	lightweight_python_interpreter	a3344649531956fc
+1	39	1733742091333692159	CMakeFiles/lightweight_python_interpreter.dir/src/parser.c.o	70609b35518bd4a3
+39	66	1733742091370359384	lightweight_python_interpreter	a3344649531956fc
+1	29	1733742193935509301	CMakeFiles/lightweight_python_interpreter.dir/src/main.c.o	51817db9b9c0c695
+29	61	1733742193965509889	lightweight_python_interpreter	a3344649531956fc
+1	38	1733742844637204111	CMakeFiles/lightweight_python_interpreter.dir/src/main.c.o	51817db9b9c0c695
+1	40	1733742844637204111	CMakeFiles/lightweight_python_interpreter.dir/src/vm.c.o	91fe7dd97aeeb7be
+1	47	1733742844637204111	CMakeFiles/lightweight_python_interpreter.dir/src/parser.c.o	70609b35518bd4a3
+47	74	1733742844683871336	lightweight_python_interpreter	a3344649531956fc
+1	28	1733743098494097630	CMakeFiles/lightweight_python_interpreter.dir/src/vm.c.o	91fe7dd97aeeb7be
+28	58	1733743098520764709	lightweight_python_interpreter	a3344649531956fc
+1	20	1733743372830897829	CMakeFiles/lightweight_python_interpreter.dir/src/main.c.o	51817db9b9c0c695
+20	48	1733743372850897666	lightweight_python_interpreter	a3344649531956fc
+1	35	1733743774757099160	CMakeFiles/lightweight_python_interpreter.dir/src/main.c.o	51817db9b9c0c695
+2	37	1733743774757099160	CMakeFiles/lightweight_python_interpreter.dir/src/vm.c.o	91fe7dd97aeeb7be
+2	39	1733743774757099160	CMakeFiles/lightweight_python_interpreter.dir/src/parser.c.o	70609b35518bd4a3
+39	62	1733743774793765980	lightweight_python_interpreter	a3344649531956fc
